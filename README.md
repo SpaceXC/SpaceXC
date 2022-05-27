@@ -9,7 +9,7 @@ HI这里是XC！
 > 直接开摆！
 
 <a href="https://github.com/XC-Qan">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=XC-Qan" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=XC-Qan&include_all_commits=true&show_icons=true" />
 </a>
 <a href="https://github.com/XC-Qan">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XC-Qan" />
