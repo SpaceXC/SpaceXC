@@ -1,12 +1,9 @@
 HI这里是XC！
 
-代码什么都写，什么都不会写（
-
+摆烂家（摆烂证合法持有），退堂鼓演奏家
 邮箱1460499332@qq.com
 
-头像来源Phigros支线一忘忧宫章节 WATER曲绘 by knife美工刀
-
-> 直接开摆！
+头像：森嶋帆高 from 天気の子
 
 <a href="https://github.com/XC-Qan">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=XC-Qan&include_all_commits=true&show_icons=true" />
