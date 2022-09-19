@@ -6,7 +6,7 @@ HI这里是XC！
 头像：森嶋帆高 from 天気の子
 
 <a href="https://github.com/XC-Qan">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=XC-Qan&include_all_commits=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=XC-Qan&show_icons=true" />
 </a>
 <a href="https://github.com/XC-Qan">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XC-Qan" />
