@@ -15,5 +15,5 @@ HI这里是XC！
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SpaceXC&show_icons=true" />
 </a>
 <a href="https://github.com/XC-Qan">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceXCn" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceXC" />
 </a>
