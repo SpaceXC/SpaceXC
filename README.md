@@ -5,9 +5,15 @@ HI这里是XC！
 
 头像：杉崎友也 from 夏日幻魂 summer ghost
 
+#### 主线项目：
+- [WearBili](https://github.com/SpaceXC/WearBili)
+
+#### 支线项目
+- 轻念时光（WIP）
+
 <a href="https://github.com/XC-Qan">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=XC-Qan&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SpaceXC&show_icons=true" />
 </a>
 <a href="https://github.com/XC-Qan">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XC-Qan" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceXCn" />
 </a>
