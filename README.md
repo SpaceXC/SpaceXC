@@ -6,7 +6,8 @@ HI这里是XC！
 头像：杉崎友也 from 夏日幻魂 summer ghost
 
 #### 主线项目：
-- [WearBili](https://github.com/SpaceXC/WearBili)
+- ~~[WearBili](https://github.com/SpaceXC/WearBili)~~
+- [Re:WearBili](https://github.com/SpaceXC/Re-WearBili)
 
 #### 支线项目
 - 轻念时光（WIP）
