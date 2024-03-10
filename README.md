@@ -41,8 +41,8 @@
         }
     ],
     "location": {
-        "country/region": "China Mainland",
-        "provice": "GuangXi",
+        "country/region": "People's Republic of China",
+        "province": "GuangXi",
         "city": "Nanning"
     }
 }
