@@ -13,7 +13,7 @@
             "${Anything you want!}"
         ]
     },
-    "languages": ["Kotlin", "Java", "C", "C++"],
+    "languages": ["Kotlin", "Java", "C#"],
     "techs": ["Android Development", "iOS/macOS Development", "Backend Development"],
     "projects": [
         {
