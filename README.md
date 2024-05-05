@@ -14,7 +14,7 @@
         ]
     },
     "languages": ["Kotlin", "Java", "C#"],
-    "techs": ["Android Development", "iOS/macOS Development", "Backend Development"],
+    "techs": ["Android Development", "iOS/macOS Development", "Backend Development", "Unity"],
     "projects": [
         {
             "name": "WearBili",
