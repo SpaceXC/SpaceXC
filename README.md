@@ -34,10 +34,7 @@
         },
         {
             "name": "e-Mail",
-            "address": [
-                "1460499332@qq.com",
-                "xcatapple@icloud.com"
-            ]
+            "address": "me@spacexc.net"
         }
     ],
     "location": {
